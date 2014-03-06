@@ -1,4 +1,6 @@
-Finds-X-when-the-gradient-function-is-0
+Finds X when gradient-function = 0 
+(or at least roughly 0)
+HOW TO USE PROGRAM
 =======================================
 
 A simple program that calculates X when the gradient function is equal to (or close enough to) 0
